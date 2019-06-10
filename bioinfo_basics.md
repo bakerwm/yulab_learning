@@ -14,6 +14,9 @@
   - [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)  
   
   - [管理生信项目文档](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
-  Figure 1. Directory structure for a sample project from A quick guide to organizing computational biology projects.
+  
+![](https://github.com/bakerwm/yulab_learning/raw/master/images/figure1_a_quick_gudie_to_organizing_computational_biology_projects.png)
+
+Figure 1. Directory structure for a sample project from A quick guide to organizing computational biology projects.
   
   
