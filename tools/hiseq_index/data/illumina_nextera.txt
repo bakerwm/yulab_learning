@@ -1,0 +1,32 @@
+## Illumina
+## load index sequences 
+##
+## PCR index
+group,id,sequence
+nextera,Next_Ad2.1,TAAGGCGA
+nextera,Next_Ad2.2,CGTACTAG
+nextera,Next_Ad2.3,AGGCAGAA
+nextera,Next_Ad2.4,TCCTGAGC
+nextera,Next_Ad2.5,GGACTCCT
+nextera,Next_Ad2.6,TAGGCATG
+nextera,Next_Ad2.7,CTCTCTAC
+nextera,Next_Ad2.8,CAGAGAGG
+nextera,Next_Ad2.9,GCTACGCT
+nextera,Next_Ad2.10,CGAGGCTG
+nextera,Next_Ad2.11,AAGAGGCA
+nextera,Next_Ad2.12,GTAGAGGA
+nextera,Next_Ad2.13,GTCGTGAT
+nextera,Next_Ad2.14,ACCACTGT
+nextera,Next_Ad2.15,TGGATCTG
+nextera,Next_Ad2.16,CCGTTTGT
+nextera,Next_Ad2.17,TGCTGGGT
+nextera,Next_Ad2.18,GAGGGGTT
+nextera,Next_Ad2.19,AGGTTGGG
+nextera,Next_Ad2.20,GTGTGGTG
+nextera,Next_Ad2.21,TGGGTTTC
+nextera,Next_Ad2.22,TGGTCACA
+nextera,Next_Ad2.23,TTGACCCT
+nextera,Next_Ad2.24,CCACTCCT
+
+
+
