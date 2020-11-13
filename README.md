@@ -41,4 +41,8 @@
 [GitHub从fork到pull request之基础流程](https://blog.csdn.net/SirM2z/article/details/50421800)
 
 
+## Pipeline
+
++ RNAseq tutorial (Griffith Lab): https://github.com/griffithlab/rnaseq_tutorial/wiki
+
 
